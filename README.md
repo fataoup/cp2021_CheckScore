@@ -5,7 +5,9 @@ run:
 
 Step 1.
 > pip install flask
+
 or
+
 > conda install flask
 
 Step 2:
