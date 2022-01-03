@@ -14,5 +14,7 @@ Step 2:
 
 Step 3:
 > cd cp2021_CheckScore/
+
+
 > sudo ./run.sh
 
